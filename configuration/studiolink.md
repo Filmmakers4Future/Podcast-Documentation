@@ -6,7 +6,9 @@ title: Studio Link
 
 1. Start `Studio Link` from your download folder. Your web browser will open the user interface.  
    * **Please note:** Don't close this web browser window / tab. `Studio Link` will be closed if you do.
-<img src="./img/studiolink_1.png" width="600px">
+	<img src="./img/studiolink_1.png" width="600px">
+   * **Note for Windows users:** The firewall may ask for permission to establish a network connection, this must be granted.  
+	<img src="./img/windows_firewall.png" width="600px">
 2. Click on the `Interface` button.
 <img src="./img/studiolink_2.png" width="600px">
 3. A menu with audio interface settings will open.

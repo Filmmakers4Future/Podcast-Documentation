@@ -1,8 +1,9 @@
 ---
-title: Configure the Audio Device
+title: Check Audio Device
 ---
 
-# Configure the Audio Device
+# Check Audio Device
+Please connect your audio interface or microphone to your computer before you continue.
 
 ## Windows
 1. Open the Windows settings.
